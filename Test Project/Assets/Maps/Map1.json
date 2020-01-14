@@ -1,0 +1,341 @@
+{
+  "Items": [
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 1,
+      "relpos_z": 0,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 1,
+      "relpos_z": 1,
+      "angle": 0
+    },
+    {
+      "id": 1,
+      "name": "书包",
+      "relpos_x": 1,
+      "relpos_z": 2,
+      "angle": 0
+    },
+    {
+      "id": 2,
+      "name": "椅子",
+      "relpos_x": 1,
+      "relpos_z": 3,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 1,
+      "relpos_z": 4,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 1,
+      "relpos_z": 5,
+      "angle": 0
+    },
+    {
+      "id": 1,
+      "name": "书包",
+      "relpos_x": 1,
+      "relpos_z": 6,
+      "angle": 0
+    },
+    {
+      "id": 2,
+      "name": "椅子",
+      "relpos_x": 1,
+      "relpos_z": 7,
+      "angle": 0
+    },
+    {
+      "id": 6,
+      "name": "桌子",
+      "relpos_x": 3,
+      "relpos_z": 0,
+      "angle": 0
+    },
+    {
+      "id": 2,
+      "name": "椅子",
+      "relpos_x": 3,
+      "relpos_z": 1,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 3,
+      "relpos_z": 2,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 3,
+      "relpos_z": 3,
+      "angle": 0
+    },
+    {
+      "id": 6,
+      "name": "桌子",
+      "relpos_x": 3,
+      "relpos_z": 4,
+      "angle": 0
+    },
+    {
+      "id": 2,
+      "name": "椅子",
+      "relpos_x": 3,
+      "relpos_z": 5,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 3,
+      "relpos_z": 6,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 3,
+      "relpos_z": 7,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 5,
+      "relpos_z": 0,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 5,
+      "relpos_z": 1,
+      "angle": 0
+    },
+    {
+      "id": 6,
+      "name": "桌子",
+      "relpos_x": 5,
+      "relpos_z": 2,
+      "angle": 0
+    },
+    {
+      "id": 1,
+      "name": "书包",
+      "relpos_x": 5,
+      "relpos_z": 3,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 5,
+      "relpos_z": 4,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 5,
+      "relpos_z": 5,
+      "angle": 0
+    },
+    {
+      "id": 6,
+      "name": "桌子",
+      "relpos_x": 5,
+      "relpos_z": 6,
+      "angle": 0
+    },
+    {
+      "id": 1,
+      "name": "书包",
+      "relpos_x": 5,
+      "relpos_z": 7,
+      "angle": 0
+    },
+    {
+      "id": 1,
+      "name": "书包",
+      "relpos_x": 7,
+      "relpos_z": 0,
+      "angle": 0
+    },
+    {
+      "id": 6,
+      "name": "桌子",
+      "relpos_x": 7,
+      "relpos_z": 1,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 7,
+      "relpos_z": 2,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 7,
+      "relpos_z": 3,
+      "angle": 0
+    },
+    {
+      "id": 1,
+      "name": "书包",
+      "relpos_x": 7,
+      "relpos_z": 4,
+      "angle": 0
+    },
+    {
+      "id": 6,
+      "name": "桌子",
+      "relpos_x": 7,
+      "relpos_z": 5,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 7,
+      "relpos_z": 6,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 7,
+      "relpos_z": 7,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 9,
+      "relpos_z": 0,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 9,
+      "relpos_z": 1,
+      "angle": 0
+    },
+    {
+      "id": 2,
+      "name": "椅子",
+      "relpos_x": 9,
+      "relpos_z": 2,
+      "angle": 0
+    },
+    {
+      "id": 6,
+      "name": "桌子",
+      "relpos_x": 9,
+      "relpos_z": 3,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 9,
+      "relpos_z": 4,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 9,
+      "relpos_z": 5,
+      "angle": 0
+    },
+    {
+      "id": 2,
+      "name": "椅子",
+      "relpos_x": 9,
+      "relpos_z": 6,
+      "angle": 0
+    },
+    {
+      "id": 6,
+      "name": "桌子",
+      "relpos_x": 9,
+      "relpos_z": 7,
+      "angle": 0
+    },
+    {
+      "id": 2,
+      "name": "椅子",
+      "relpos_x": 11,
+      "relpos_z": 0,
+      "angle": 0
+    },
+    {
+      "id": 1,
+      "name": "书包",
+      "relpos_x": 11,
+      "relpos_z": 1,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 11,
+      "relpos_z": 2,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 11,
+      "relpos_z": 3,
+      "angle": 0
+    },
+    {
+      "id": 2,
+      "name": "椅子",
+      "relpos_x": 11,
+      "relpos_z": 4,
+      "angle": 0
+    },
+    {
+      "id": 1,
+      "name": "书包",
+      "relpos_x": 11,
+      "relpos_z": 5,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 11,
+      "relpos_z": 6,
+      "angle": 0
+    },
+    {
+      "id": 5,
+      "name": "讲台",
+      "relpos_x": 11,
+      "relpos_z": 7,
+      "angle": 0
+    }
+  ],
+  "total": 48
+}
